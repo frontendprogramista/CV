@@ -10,12 +10,13 @@ h2 {
 }
 
 h1 {
-    font size: 36px;
-    font family: Arial;
+    font-size: 36px;
+    font-family: Arial;
 }
 
-span {color: grey;
-    font family: Arial;
+span {
+    color: grey;
+    font-family: Arial;
 
 }
 
