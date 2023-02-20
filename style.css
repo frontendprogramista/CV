@@ -24,3 +24,8 @@ img {
     width: 150px;
     height: 150px;
 }
+
+section,
+header {
+    padding: 10px 60px 20px 60px
+}
